@@ -1,0 +1,41 @@
+
+白菜坑.png
+size: 328,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baicai
+  rotate: true
+  xy: 2, 4
+  size: 163, 217
+  orig: 163, 217
+  offset: 0, 0
+  index: -1
+tudi1
+  rotate: true
+  xy: 263, 2
+  size: 237, 63
+  orig: 239, 66
+  offset: 1, 1
+  index: -1
+tudi2
+  rotate: false
+  xy: 2, 169
+  size: 259, 70
+  orig: 280, 78
+  offset: 2, 6
+  index: -1
+tudifeijian
+  rotate: true
+  xy: 221, 64
+  size: 38, 33
+  orig: 41, 36
+  offset: 1, 2
+  index: -1
+tudifeijian1
+  rotate: false
+  xy: 221, 104
+  size: 36, 63
+  orig: 39, 68
+  offset: 3, 4
+  index: -1
